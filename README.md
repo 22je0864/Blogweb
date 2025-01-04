@@ -25,5 +25,5 @@ A simple blog website that allows users to create, edit, and view blog posts. Bu
 ### Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tanuvideepika/Blogweb.git
+   git clone https://github.com/22je0864/Blogweb.git
    cd Blogweb
